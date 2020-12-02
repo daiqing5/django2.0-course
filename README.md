@@ -2,7 +2,6 @@
 ![Python3.x](https://img.shields.io/badge/Python-3.x-519dd9.svg)
 ![Django2.x](https://img.shields.io/badge/Django-2.x-519dd9.svg)
 
-**版权声明：该套教程版权是作者（杨仕航）所有，侵权必究。这套教程我没有在淘宝等任何地方售卖。**
 
 该git项目是Django2.0视频教程对应每节课的代码。为了查看方便，对应章节代码在对应文件夹中。<br>
 Django2.0视频教程地址：https://space.bilibili.com/252028233/#/channel/detail?cid=28138
